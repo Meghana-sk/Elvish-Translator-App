@@ -1,8 +1,8 @@
 # Elvish Translator App
 English to Elvish(Lord of the Rings) translation App 
 
-<div align=left>
-<img src="https://worldvectorlogo.com/logo/the-lord-of-the-rings-1" width="100" height="100">
+<div>
+<img src="https://cdn.worldvectorlogo.com/logos/the-lord-of-the-rings-2.svg" width="100" height="100">
 </div>
 
 ### Developed using 
