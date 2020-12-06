@@ -2,7 +2,7 @@
 English to Elvish(Lord of the Rings) translation App 
 
 
--### Developed using 
+- ### Developed using 
 
   - #### Javascript
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="60" height="60">
@@ -15,5 +15,5 @@ English to Elvish(Lord of the Rings) translation App
 
 - ## Hosted using
 
- -#### Netlify
+ - #### Netlify
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="60" height="60">
