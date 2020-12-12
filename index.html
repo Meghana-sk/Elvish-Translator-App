@@ -4,38 +4,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elvish Sindarin Speak</title>
-
-    <style>
-        textarea {
-            width: 80%;
-            height: 10vh;
-            display: block;
-            margin: 1rem;
-            padding:1rem;
-        }
-
-        #output{
-            border: 1px solid black;
-            height:10vh;
-            width:80%;
-            margin:1rem;
-            padding: 1rem;
-        }
-    </style>
+    <title>Elvish - Sindarin Speak</title>
+    <link href="styles.css" rel="stylesheet"/>
+    <h1>Elvish Sindarin Talk</h1>
+    <img class="hero-image" src="images/legolas-png-file.png"/>
+    
+    
+   
 
 </head>
 
 <body>
-    <h1>Sindarin Talk</h1>
     <textarea id="txt-input"
     placeholder="Enter your name and we will display in Sindarin - Lord of the Rings"></textarea>
     <button id="btn-translate">Translate</button>
-
-    <div style="font-size: larger;">Output will come here 👇</div>
-    <div id="output"></div>
-
+    <div class="output-heading">Output will come here 👇</div>
+    <div id="output">
+      
+    </div>
+    <p class="quote"><span>"Not all those who wander are lost."</span>
+        ― J.R.R. Tolkien</p>
+        <br>
+        
     <script src="app.js" type="text/javascript"></script>
+    <footer class="footer">
+        <p class="about">Do you love adventures stories? Lord of the Rings is a multi-dimensional adventurous story.
+            The story concerns peoples such as hobbits, Elves, Men, Dwarves,
+            Wizards, and Orcs (called goblins in The Hobbit), and centers on the Ring of Power made by the 
+            Dark Lord Sauron. Starting from quiet beginnings in the Shire, 
+            the story ranges across Middle-earth and follows the courses of the War of the Ring.</p>
+        <div class="footer-header"><strong>Contact me</strong></div>
+       
+        <ul class="social-links list-non-bullet">
+            <li class="list-item-inline">
+                <a class="link" href="https://twitter.com/Meghana14sk">twitter</a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link" href="https://www.linkedin.com/in/meghanask">linkedin</a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link" href="https://github.com/Meghana-sk">github</a>
+            </li>
+        </ul>
+    </footer>
 </body>
 
 </html>
